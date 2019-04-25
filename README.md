@@ -1,2 +1,0 @@
-# EjemploCI
-Created with CodeSandbox
